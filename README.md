@@ -44,4 +44,6 @@ Usage
 
 Contribution
 
-Feel free to contribute to this project by creating issues, suggesting improvements, or making pull requests. We welcome your ideas and code contributions.
+Their are still some bug in program and minor issues related to indexes and typecasting and CLI. I hope you guys might help me to improve my code. 
+Feel free to contribute to this project by creating issues, suggesting improvements, or making pull requests. I welcome your ideas and code contributions.
+
