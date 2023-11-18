@@ -33,7 +33,7 @@ Or you can import them by SQL Workbench by 'Service' menu item->'Import data'->N
 
 You can run the application by executing the main Python script:
 
-    python library_management.py
+    python finalproject.py
 
 Usage
 
